@@ -1,5 +1,3 @@
-# UNTESTED
-
 # Splunk TA Astro
 This TA is a simple example of conducting an API integration for Splunk. The example uses a public API to pull information regarding the International Space Station and people in space. The goal of the app to for users to craft their own app using the requirements below and compare the requirements with this app.
 

@@ -1,4 +1,4 @@
-# Splunk TA Astro
+# Astro TA for Splunk
 This TA is a simple example of conducting an API integration for Splunk. The example uses a public API to pull information regarding the International Space Station and people in space. The goal of the app to for users to craft their own app using the requirements below and compare the requirements with this app.
 
 ## To-Do
@@ -14,3 +14,6 @@ Additional Requirements:
 - Logs can be placed in any index.
 - ISS location information should be placed into a sourcetype named `astro:iss` and data should be queried every 2 minutes.
 - Information about people in space should be placed in a sourcetype named `astro:people` and data should be queried every 5 minutes.
+
+## Resources
+Link to API Documentation: http://open-notify.org/
